@@ -1,0 +1,17 @@
+{
+  "ensure_newline_at_eof_on_save": true,
+  "font_size": 11,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "rulers":
+  [
+    100
+  ],
+  "tab_size": 2,
+   "theme": "Afterglow.sublime-theme",
+  "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+  "translate_tabs_to_spaces": true
+}
+
